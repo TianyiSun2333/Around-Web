@@ -1,3 +1,7 @@
+@import '~antd/dist/antd.css';
+@import './Main.css';
+
+
 .App {
   text-align: center;
 }
@@ -19,7 +23,7 @@
   margin: 0px;
   color: #61DAFB;
   float: left;
-  padding-top: 16px;
+  padding-top: 15px;
 }
 
 .App-intro {
